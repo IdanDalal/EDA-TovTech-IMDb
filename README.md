@@ -12,7 +12,7 @@ This led me to create "The Director's Compass," which groups directors into four
 While the correlation isn't huge, it suggests that being versatile doesn't hurt a director's career and might even help a little.
 The whole process taught me how to take a real-world question and use data to find an actual, measurable answer.
 ## The Most Impressive Graph
-<img width="1760" height="1320" alt="image" src="[https://raw.githubusercontent.com/IdanDalal/EDA-TovTech-IMDb/refs/heads/main/plot4.jpg](https://raw.githubusercontent.com/IdanDalal/EDA-TovTech-IMDb/refs/heads/main/plot4.jpg)" />
+<img width="1760" height="1320" alt="image" src="https://raw.githubusercontent.com/IdanDalal/EDA-TovTech-IMDb/refs/heads/main/plot4.jpg" />
 "The Director's Compass" plot shows 2,755 directors mapped by their versatility score on the x-axis and success score on the y-axis - both engineered percentiles, not raw numbers. The red-yellow-green color gradient shows performance on both axes simultaneously. The size of each director's dot represents the number of films they directed. The quadramts classify each director as an archetype: The Masters - top right, The Specialists - top left, The Craftsmen - bottom right, and The Explorers - bottom left.
 
 ## DataCamp Learning Testimonial
